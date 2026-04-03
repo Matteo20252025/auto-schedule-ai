@@ -1,4 +1,4 @@
-# AutoSchedule AI
+# AutoSchedule AI 🤖
 
 AI-powered WhatsApp scheduling agent that autonomously handles booking, rescheduling and cancellations — no menus, no human intervention. Built with N8N, Google Calendar, Supabase and Redis.
 
@@ -20,8 +20,19 @@ AI-powered WhatsApp scheduling agent that autonomously handles booking, reschedu
 
 ## 🧠 Architecture
 
-- Orchestrated via N8N workflows
-- LLM-based conversational agent
-- Redis for session memory
-- Supabase for persistence layer
-- Google Calendar API for scheduling
+- Orchestrated via N8N workflows  
+- LLM-based conversational agent  
+- Redis for session memory  
+- Supabase for persistence layer  
+- Google Calendar API for scheduling  
+
+---
+
+## ⚙️ Tech Stack
+
+- **N8N** — workflow orchestration and automation engine  
+- **OpenAI / LLM** — natural language understanding and response generation  
+- **Redis** — session memory and conversational context  
+- **Supabase** — database and scalable backend  
+- **Google Calendar API** — appointment scheduling and availability management  
+- **WhatsApp API (Evolution API)** — communication interface with users  
