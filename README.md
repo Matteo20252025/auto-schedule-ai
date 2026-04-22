@@ -56,7 +56,7 @@ Built with N8N, LLMs, Google Calendar, Supabase, and Redis.
 
 ## 📄 Architecture & Case Study
 
-👉 [View Full Case Study](docsAutoSchedule_AI_Case_Study.pdf)
+👉 [View Full Case Study](docsAutoSchedule_AI_Case_StudyEN.pdf)
 
 ---
 
