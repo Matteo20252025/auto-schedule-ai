@@ -5,6 +5,8 @@ AI-powered WhatsApp scheduling system that autonomously handles booking, resched
 
 Built with N8N, LLMs, Google Calendar, Supabase, and Redis.
 
+---
+
 # 📱 Demo GIF
 <p align="center">
   <img src="AutoSchedule%20AI%20Demo.gif" width="300"/>
